@@ -102,7 +102,7 @@ body {
   left: 0;
 }
 .parallax__mountain_1 {
-  background: url(/img/m_1.png) 0 0 / cover no-repeat;
+  background: url(../img/m_1.png) 0 0 / cover no-repeat;
 }
 .parallax__mountain_2 {
   background: url(/img/m_2.png) bottom right / 45% no-repeat;
